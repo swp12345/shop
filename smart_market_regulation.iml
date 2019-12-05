@@ -147,6 +147,8 @@
     <orderEntry type="library" name="Maven: org.json:json:20170516" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
     <orderEntry type="library" name="Maven: eu.bitwalker:UserAgentUtils:1.19" level="project" />
-    <orderEntry type="module" module-name="fastdfs-client-java" />
+    <orderEntry type="module" module-name="fastdfs-client-java" />     
+	
+	我的修改1
   </component>
 </module>
